@@ -82,23 +82,25 @@
       "time": {
         "prep": "Čas priprave:",
         "cook": "Čas kuhanja ali pečenja:",
-        "total": "Skupni čas"
+        "total": "Skupni čas",
+        "hours": "Ure",
+        "minutes": "Minute"
       },
       "nutrition": {
-        "title": "Nutrition Information",
+        "title": "Podrobnosti o hranilnosti",
         "items": {
-          "calories": "Energy",
-          "carbohydrateContent": "Carbohydrate",
-          "cholesterolContent": "Cholesterol",
-          "fatContent": "Fat total",
-          "fiberContent": "Fiber",
-          "proteinContent": "Protein",
-          "saturatedFatContent": "Saturated Fat",
-          "servingSize": "Serving size",
-          "sodiumContent": "Sodium",
-          "sugarContent": "Sugar",
-          "transFatContent": "Trans-fat content",
-          "unsaturatedFatContent": "Unsaturated-fat content"
+          "calories": "Energija",
+          "carbohydrateContent": "Ogljikovi hidrati",
+          "cholesterolContent": "Holesterol",
+          "fatContent": "Skupno maščobe",
+          "fiberContent": "Vlaknine",
+          "proteinContent": "Beljakovine",
+          "saturatedFatContent": "Nasičene maščobe",
+          "servingSize": "Velikost porcije",
+          "sodiumContent": "Natrij",
+          "sugarContent": "Sladkor",
+          "transFatContent": "Vsebnost trans-maščob",
+          "unsaturatedFatContent": "Vsebnost nenasičenih maščob"
         }
       },
       "tools": "Pripomočki:",
@@ -111,7 +113,7 @@
   },
   "recipe_edit": {
     "title": "Uredi recept",
-    "button": "Uredi",
+    "button": "Shrani",
     "errors": {
       "update_failed": "Posodobitev je spodletela {error_msg}"
     }
